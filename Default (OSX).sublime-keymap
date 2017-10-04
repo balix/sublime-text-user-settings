@@ -1,0 +1,5 @@
+[
+	{ "keys": ["home"], "command": "move_to", "args": { "to": "hardbol" } },
+	{ "keys": ["home + shift"], "command": "move_to", "args": { "to": "hardbol" } },
+	{ "keys": ["end"], "command": "move_to", "args": { "to": "hardeol" } }
+]
