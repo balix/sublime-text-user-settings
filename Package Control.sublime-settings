@@ -2,10 +2,21 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AutoFileName",
 		"Boxy Theme",
+		"BracketHighlighter",
 		"Emmet",
+		"jQuery",
 		"LESS",
 		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-csslint",
+		"SublimeLinter-gjslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-phplint",
 		"Syntax Highlighting for PostCSS",
 		"Twig"
 	]
